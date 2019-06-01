@@ -1,0 +1,6 @@
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\thainá\Desktop\ControleDeAtendimento\ControleDeAtendimento\Biblioteca\obj\Debug\Biblioteca.pdb
